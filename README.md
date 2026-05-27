@@ -1,3 +1,4 @@
+# Ecommerce-Store-Data-Analysis
 This project analyzes the annual sales performance of Vrinda Store for the year 2022 using Microsoft Excel.  
 The objective of this analysis is to identify **customer behavior**, **sales trends**, **top-performing states**, **channels**, and **categories** to help improve business decisions and increase sales.
 
